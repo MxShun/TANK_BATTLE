@@ -1,4 +1,4 @@
-# TANK BATTLE
+# Tank Battle
 TANK BATTLE is a simple shooting game developed with JavaScript, based on "enchant.js"(http://enchantjs.com/) which is a framework for creating games and apps.
 I completed it for only 3 weeks because of the useful framework.
 
