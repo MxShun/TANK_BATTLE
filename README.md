@@ -12,7 +12,7 @@ You can try it [here](https://mxshun.github.io/tank-battle/TANK_BATTLE.html)(Git
 And posted [here](http://9leap.net/games/5644)(9leap.net link).
 
 ## How to Play
-![play](https://github.com/MxShun/Pomodoro-It/blob/master/images/howtoplay.jpg "Play")
+![play](https://github.com/MxShun/Pomodoro-It/blob/master/images/play.png "Play")
 
 ### Mission
 Get higher score by destroying enemy tanks colored desert
@@ -28,4 +28,4 @@ Get higher score by destroying enemy tanks colored desert
 - Left lives: 50 points per 1 tank
 
 ## License
-[MIT](https://github.com/MxShun/tank-battle/blob/master/LICENSE)
+[MIT License](https://github.com/MxShun/tank-battle/blob/master/LICENSE)
